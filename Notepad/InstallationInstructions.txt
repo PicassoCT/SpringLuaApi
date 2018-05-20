@@ -1,2 +1,3 @@
 Download spring.xml
-Put the downloaded
+Put the downloaded (it could be in C:\Program Files (x86)\Notepad++\plugins\APIs with WINDOWS)
+From "Notepad++" menu ("Language" --> "Define your language..."), create a new user language named spring.
